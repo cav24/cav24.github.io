@@ -1,6 +1,6 @@
 ---
-title: Title
-description: Description
+title: My Work
+description: Below, you will find projects that I have completed for my master's courses!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
