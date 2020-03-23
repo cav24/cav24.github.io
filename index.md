@@ -10,4 +10,4 @@ This is content that I've developed for my courses:
 
 Here is a link to my Seven-Eleven Japan case study, which I completed with a team of my peers:
 
--[Seven-Eleven Japan Case Study] (https://github.com/cav24/sevenelevencase) 
+-[Seven-Eleven Japan Case Study](https://github.com/cav24/sevenelevencase) 
