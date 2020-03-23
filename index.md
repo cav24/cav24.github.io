@@ -1,6 +1,6 @@
 ---
 title: Chelsea Velic
-description: - My Work -
+description: My Work 
 ---
 
 
