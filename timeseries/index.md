@@ -3,7 +3,7 @@ title: Time Series Decomposition
 description: Course Content
 ---
 
-![Average Cycle Plot](tsplot.png)
+![Private TS Plot](tsplot1.png)
 
 Here is a Time Series Decomposition I use in my CTBA course:
 
