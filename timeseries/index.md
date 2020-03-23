@@ -3,7 +3,7 @@ title: Time Series Decomposition
 description: Course Content
 ---
 
-Private Construction Spending\nTime Series Plot
+Private Construction Spending Time Series Plot
 
 
 ![Private TS Plot](tsplot.png)
