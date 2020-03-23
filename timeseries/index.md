@@ -4,6 +4,8 @@ description: Course Content
 ---
 
 Private Construction Spending\nTime Series Plot
+
+
 ![Private TS Plot](tsplot.png)
 
 Here is a Time Series Decomposition I use in my CTBA course:
